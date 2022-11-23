@@ -1,4 +1,4 @@
-"RID","age","income","student","credit_rating","buys_computer","nilai_income","nilai_creading_rating"
+"RID","age","income","student","credit_rating","buys_computer","nilai_income","nilai_credit_rating"
 "1","youth","high","no","fair","no","400","50"
 "2","youth","high","no","excellent","no","500","90"
 "3","middle_aged","high","no","fair","yes","700","50"
